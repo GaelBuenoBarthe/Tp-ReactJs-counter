@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Counter from './composants/Counter';
+import Counter from './components/Counter';
 import './App.css';
-import Signature from './composants/Signature';
+import Signature from './components/Signature';
 
 const App = () => {
   const [count, setCount] = useState(0);
