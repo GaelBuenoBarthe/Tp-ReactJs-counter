@@ -3,7 +3,7 @@
 
 body {
   background-color: #000;
-  color: #fff;
+  color: #39ff14;
   font-family: 'Creepster', cursive;
   margin: 0;
   padding: 0;
@@ -35,7 +35,6 @@ body {
 .counter-card {
   text-align: center;
   padding: 20px;
-  border-radius: 10px;
   background-color: transparent;
 }
 
@@ -48,7 +47,6 @@ body {
   font-family: 'Grim Reaper', sans-serif;
   color: #8B0000;
   font-size: 6rem;
-  margin-bottom: 20px;
 }
 
 .btn-group .btn {
